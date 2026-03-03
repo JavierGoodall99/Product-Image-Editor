@@ -1,0 +1,5 @@
+{
+  "name": "Product Photo Editor",
+  "description": "Clean up and edit product photos using AI and text instructions.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-zinc-900/50 backdrop-blur-xl border border-white/10 shadow-2xl;
+  }
+}
